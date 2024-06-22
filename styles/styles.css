@@ -26,7 +26,8 @@ header {
 	align-items: center;
 	padding: 1em 3em;
 	color: var(--text);
-	background: rgba(1, 1, 15, 0.705);
+	backdrop-filter: blur(10px);
+	background: rgba(1, 1, 15, 0.432);
 }
 
 .nav-list {
